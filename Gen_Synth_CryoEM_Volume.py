@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Gen_Sim_CryoEM_vol_multi.py
+Gen_Synth_CryoEM_Volume.py
 
 Description:
     This script generates synthetic cryo-EM volumes from a set of PDB files. Each PDB file is read to 
@@ -14,7 +14,7 @@ Usage:
     Adjust the parameters below (grid dimensions, voxel_size, sigma, directory paths, and simulation options)
     as needed, then run the script from the command line:
     
-        python Gen_Sim_CryoEM_vol_multi.py
+        python Gen_Synth_CryoEM_Volume.py
 
 Requirements:
     - Python 3.x
@@ -24,7 +24,7 @@ Requirements:
 
 Author:
     Zachary Berndsen
-    ChatGPT o3-mini-high
+    ChatGPT
     
 Date:
     03-04-2025
