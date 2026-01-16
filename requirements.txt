@@ -1,0 +1,4 @@
+# Python dependencies for synthetic cryo-EM volume generation
+numpy>=1.20.0
+mrcfile>=1.4.0
+scipy>=1.7.0
